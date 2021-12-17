@@ -1,4 +1,4 @@
-### CS525-NLP-Project
+### CS525-NLP-Project : NEWS SUMMARIZATION & TITLE GENERATION
 
 ## Team Members: 
 Anamika Kumari, Abhishek, David, Jeff
