@@ -1,7 +1,7 @@
 ### CS525-NLP-Project : NEWS SUMMARIZATION & TITLE GENERATION
 
 ## Team Members: 
-Anamika Kumari, Abhishek, David, Jeff
+Anamika Kumari, Abhishek Kumar Reddy Gotike, David Kim, Jingfeng Xia
 
 #AIM
 
@@ -31,8 +31,9 @@ The title length variation across summaries.
   <img src="images/architecture.png" width="450" />  
 </p>
 
+## Models Unfinished.
 
-
+We tried GPT2, GAN-BERT, and Fine-tuned BERT, but we did not make it.
 
 ### Eval Metrics:
 
